@@ -1,9 +1,4 @@
----
-language: none
-tags: outro
-type: outro
-resources: 0
----
+
 
 ## What's Next?
 
