@@ -19,6 +19,5 @@ If you enjoyed this course, you can show your appreciation by:
 ### Shout Outs
 
 Special thanks to everyone at [The Flatiron School](http://flatironschool.com/), and I would like to personally thank you for taking my course. Now go forth into the world wide web and build!
-<a href='https://learn.co/lessons/fe-final-words' data-visibility='hidden'>View this lesson on Learn.co</a>
 
 <a href='https://learn.co/lessons/fe-final-words' data-visibility='hidden'>View this lesson on Learn.co</a>
